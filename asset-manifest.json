@@ -1,0 +1,125 @@
+{
+  "_chunksMap": {
+    "umi": [
+      "/umi.js"
+    ],
+    "wrappers": [
+      "/vendors~docs__index.md~docs__module1__chapter01__01.lesson1-1.md~docs__module1__chapter01__02.lesson~42d2db65.js",
+      "/vendors~wrappers.chunk.css",
+      "/vendors~wrappers.js",
+      "/wrappers.js"
+    ],
+    "dumi_demos": [
+      "/vendors~docs__index.md~docs__module1__chapter01__01.lesson1-1.md~docs__module1__chapter01__02.lesson~42d2db65.js",
+      "/vendors~docs__module1__chapter01__02.lesson1-2.md~docs__module1__chapter01__03.lesson1-3.md~docs__mo~e9752341.chunk.css",
+      "/vendors~docs__module1__chapter01__02.lesson1-2.md~docs__module1__chapter01__03.lesson1-3.md~docs__mo~e9752341.js",
+      "/vendors~dumi_demos.chunk.css",
+      "/vendors~dumi_demos.js",
+      "/dumi_demos.js"
+    ],
+    "docs__index.md": [
+      "/vendors~docs__index.md~docs__module1__chapter01__01.lesson1-1.md~docs__module1__chapter01__02.lesson~42d2db65.js",
+      "/docs__index.md.js"
+    ],
+    "docs__module1__index.md": [
+      "/vendors~docs__index.md~docs__module1__chapter01__01.lesson1-1.md~docs__module1__chapter01__02.lesson~42d2db65.js",
+      "/docs__module1__index.md.js"
+    ],
+    "docs__module1__chapter01__01.lesson1-1.md": [
+      "/vendors~docs__index.md~docs__module1__chapter01__01.lesson1-1.md~docs__module1__chapter01__02.lesson~42d2db65.js",
+      "/docs__module1__chapter01__01.lesson1-1.md.js"
+    ],
+    "docs__module1__chapter01__02.lesson1-2.md": [
+      "/vendors~docs__index.md~docs__module1__chapter01__01.lesson1-1.md~docs__module1__chapter01__02.lesson~42d2db65.js",
+      "/vendors~docs__module1__chapter01__02.lesson1-2.md~docs__module1__chapter01__03.lesson1-3.md~docs__mo~e9752341.chunk.css",
+      "/vendors~docs__module1__chapter01__02.lesson1-2.md~docs__module1__chapter01__03.lesson1-3.md~docs__mo~e9752341.js",
+      "/docs__module1__chapter01__02.lesson1-2.md.js"
+    ],
+    "docs__module1__chapter01__03.lesson1-3.md": [
+      "/vendors~docs__index.md~docs__module1__chapter01__01.lesson1-1.md~docs__module1__chapter01__02.lesson~42d2db65.js",
+      "/vendors~docs__module1__chapter01__02.lesson1-2.md~docs__module1__chapter01__03.lesson1-3.md~docs__mo~e9752341.chunk.css",
+      "/vendors~docs__module1__chapter01__02.lesson1-2.md~docs__module1__chapter01__03.lesson1-3.md~docs__mo~e9752341.js",
+      "/docs__module1__chapter01__03.lesson1-3.md.js"
+    ],
+    "docs__module1__chapter01__04.lesson1-4.md": [
+      "/vendors~docs__index.md~docs__module1__chapter01__01.lesson1-1.md~docs__module1__chapter01__02.lesson~42d2db65.js",
+      "/vendors~docs__module1__chapter01__02.lesson1-2.md~docs__module1__chapter01__03.lesson1-3.md~docs__mo~e9752341.chunk.css",
+      "/vendors~docs__module1__chapter01__02.lesson1-2.md~docs__module1__chapter01__03.lesson1-3.md~docs__mo~e9752341.js",
+      "/docs__module1__chapter01__04.lesson1-4.md.js"
+    ],
+    "docs__module1__chapter01__05.lesson1-5.md": [
+      "/vendors~docs__index.md~docs__module1__chapter01__01.lesson1-1.md~docs__module1__chapter01__02.lesson~42d2db65.js",
+      "/vendors~docs__module1__chapter01__02.lesson1-2.md~docs__module1__chapter01__03.lesson1-3.md~docs__mo~e9752341.chunk.css",
+      "/vendors~docs__module1__chapter01__02.lesson1-2.md~docs__module1__chapter01__03.lesson1-3.md~docs__mo~e9752341.js",
+      "/docs__module1__chapter01__05.lesson1-5.md.js"
+    ],
+    "docs__module1__chapter01__06.lesson1-6.md": [
+      "/vendors~docs__index.md~docs__module1__chapter01__01.lesson1-1.md~docs__module1__chapter01__02.lesson~42d2db65.js",
+      "/vendors~docs__module1__chapter01__02.lesson1-2.md~docs__module1__chapter01__03.lesson1-3.md~docs__mo~e9752341.chunk.css",
+      "/vendors~docs__module1__chapter01__02.lesson1-2.md~docs__module1__chapter01__03.lesson1-3.md~docs__mo~e9752341.js",
+      "/docs__module1__chapter01__06.lesson1-6.md.js"
+    ],
+    "docs__module1__chapter01__07.lesson1-7.md": [
+      "/vendors~docs__index.md~docs__module1__chapter01__01.lesson1-1.md~docs__module1__chapter01__02.lesson~42d2db65.js",
+      "/vendors~docs__module1__chapter01__02.lesson1-2.md~docs__module1__chapter01__03.lesson1-3.md~docs__mo~e9752341.chunk.css",
+      "/vendors~docs__module1__chapter01__02.lesson1-2.md~docs__module1__chapter01__03.lesson1-3.md~docs__mo~e9752341.js",
+      "/docs__module1__chapter01__07.lesson1-7.md.js"
+    ],
+    "docs__module1__chapter01__08.lesson1-8.md": [
+      "/vendors~docs__index.md~docs__module1__chapter01__01.lesson1-1.md~docs__module1__chapter01__02.lesson~42d2db65.js",
+      "/vendors~docs__module1__chapter01__02.lesson1-2.md~docs__module1__chapter01__03.lesson1-3.md~docs__mo~e9752341.chunk.css",
+      "/vendors~docs__module1__chapter01__02.lesson1-2.md~docs__module1__chapter01__03.lesson1-3.md~docs__mo~e9752341.js",
+      "/docs__module1__chapter01__08.lesson1-8.md.js"
+    ],
+    "docs__module1__chapter01__09.lesson1-9.md": [
+      "/vendors~docs__index.md~docs__module1__chapter01__01.lesson1-1.md~docs__module1__chapter01__02.lesson~42d2db65.js",
+      "/vendors~docs__module1__chapter01__02.lesson1-2.md~docs__module1__chapter01__03.lesson1-3.md~docs__mo~e9752341.chunk.css",
+      "/vendors~docs__module1__chapter01__02.lesson1-2.md~docs__module1__chapter01__03.lesson1-3.md~docs__mo~e9752341.js",
+      "/docs__module1__chapter01__09.lesson1-9.md.js"
+    ],
+    "docs__module1__chapter01__10.lesson1-10.md": [
+      "/vendors~docs__index.md~docs__module1__chapter01__01.lesson1-1.md~docs__module1__chapter01__02.lesson~42d2db65.js",
+      "/vendors~docs__module1__chapter01__02.lesson1-2.md~docs__module1__chapter01__03.lesson1-3.md~docs__mo~e9752341.chunk.css",
+      "/vendors~docs__module1__chapter01__02.lesson1-2.md~docs__module1__chapter01__03.lesson1-3.md~docs__mo~e9752341.js",
+      "/docs__module1__chapter01__10.lesson1-10.md.js"
+    ]
+  },
+  "vendors~docs__index.md~docs__module1__chapter01__01.lesson1-1.md~docs__module1__chapter01__02.lesson~42d2db65.js": "/vendors~docs__index.md~docs__module1__chapter01__01.lesson1-1.md~docs__module1__chapter01__02.lesson~42d2db65.js",
+  "vendors~docs__module1__chapter01__02.lesson1-2.md~docs__module1__chapter01__03.lesson1-3.md~docs__mo~e9752341.css": "/vendors~docs__module1__chapter01__02.lesson1-2.md~docs__module1__chapter01__03.lesson1-3.md~docs__mo~e9752341.chunk.css",
+  "vendors~docs__module1__chapter01__02.lesson1-2.md~docs__module1__chapter01__03.lesson1-3.md~docs__mo~e9752341.js": "/vendors~docs__module1__chapter01__02.lesson1-2.md~docs__module1__chapter01__03.lesson1-3.md~docs__mo~e9752341.js",
+  "docs__index.md.js": "/docs__index.md.js",
+  "docs__module1__chapter01__01.lesson1-1.md.js": "/docs__module1__chapter01__01.lesson1-1.md.js",
+  "docs__module1__chapter01__02.lesson1-2.md.js": "/docs__module1__chapter01__02.lesson1-2.md.js",
+  "docs__module1__chapter01__03.lesson1-3.md.js": "/docs__module1__chapter01__03.lesson1-3.md.js",
+  "docs__module1__chapter01__04.lesson1-4.md.js": "/docs__module1__chapter01__04.lesson1-4.md.js",
+  "docs__module1__chapter01__05.lesson1-5.md.js": "/docs__module1__chapter01__05.lesson1-5.md.js",
+  "docs__module1__chapter01__06.lesson1-6.md.js": "/docs__module1__chapter01__06.lesson1-6.md.js",
+  "docs__module1__chapter01__07.lesson1-7.md.js": "/docs__module1__chapter01__07.lesson1-7.md.js",
+  "docs__module1__chapter01__08.lesson1-8.md.js": "/docs__module1__chapter01__08.lesson1-8.md.js",
+  "docs__module1__chapter01__09.lesson1-9.md.js": "/docs__module1__chapter01__09.lesson1-9.md.js",
+  "docs__module1__chapter01__10.lesson1-10.md.js": "/docs__module1__chapter01__10.lesson1-10.md.js",
+  "docs__module1__index.md.js": "/docs__module1__index.md.js",
+  "dumi_demos.js": "/dumi_demos.js",
+  "umi.js": "/umi.js",
+  "vendors~dumi_demos.css": "/vendors~dumi_demos.chunk.css",
+  "vendors~dumi_demos.js": "/vendors~dumi_demos.js",
+  "vendors~wrappers.css": "/vendors~wrappers.chunk.css",
+  "vendors~wrappers.js": "/vendors~wrappers.js",
+  "wrappers.js": "/wrappers.js",
+  "404.html": "/404.html",
+  "_demos/:uuid/index.html": "/_demos/:uuid/index.html",
+  "index.html": "/index.html",
+  "module1/chapter01/01/index.html": "/module1/chapter01/01/index.html",
+  "module1/chapter01/02/index.html": "/module1/chapter01/02/index.html",
+  "module1/chapter01/03/index.html": "/module1/chapter01/03/index.html",
+  "module1/chapter01/04/index.html": "/module1/chapter01/04/index.html",
+  "module1/chapter01/05/index.html": "/module1/chapter01/05/index.html",
+  "module1/chapter01/06/index.html": "/module1/chapter01/06/index.html",
+  "module1/chapter01/07/index.html": "/module1/chapter01/07/index.html",
+  "module1/chapter01/08/index.html": "/module1/chapter01/08/index.html",
+  "module1/chapter01/09/index.html": "/module1/chapter01/09/index.html",
+  "module1/chapter01/10/index.html": "/module1/chapter01/10/index.html",
+  "module1/chapter01/index.html": "/module1/chapter01/index.html",
+  "module1/index.html": "/module1/index.html",
+  "~demos/:uuid/index.html": "/~demos/:uuid/index.html"
+}
